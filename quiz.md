@@ -2,20 +2,19 @@
 
 ###What is your name?
 
-Reyna
+johnny
 
 ###What is your favorite color?
 
-Your answer goes here
+blue
 
 ###Cats or Dogs?
 
-Your answer goes here
+dogs
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
-
+bike ride, picnic with my wife.
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+my wife.
